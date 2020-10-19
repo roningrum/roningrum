@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi, Folks! 👋
 
+Have you find my github? Congratulation :)
+
+Hello, I am Rizki Oktavia Ningrum. You can call me okta. I'm currently working as intern health information division staff at Semarang Health City Department since 7 months ago.
+Learning something new like taste a new food menu in restaurant. 
 <!--
 **roningrum/roningrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
