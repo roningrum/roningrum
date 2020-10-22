@@ -2,7 +2,8 @@
 
 Have you find my github? Congratulation :)
 
-Hello, I am Rizki Oktavia Ningrum. You can call me okta
+Hello, I am Rizki Oktavia Ningrum. You can call me okta.
+
 I am Native and Hybrid Android Artist
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roningrum&show_icons=true&theme=tokyonight)
