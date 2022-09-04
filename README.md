@@ -4,7 +4,7 @@ Have you find my github? Congratulation :)
 
 Hello, I am Rizki Oktavia Ningrum. You can call me okta.
 
-My bird is fluttering when I woke up
+Part time Wibu Full time Programmer mobat mabait
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roningrum&show_icons=true&theme=tokyonight)
 <!-- tokyonight
