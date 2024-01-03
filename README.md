@@ -4,7 +4,7 @@ Have you find my github? Congratulation :)
 
 Hello, I am Rizki Oktavia Ningrum. You can call me okta.
 
-Part time Wibu Full time Programmer mobat mabait
+Part of Jujutsu Kaisen fandom since latest 2020 (I love Gojo Satoru sensei). UI & Styling interest (basic). Currently, Learning another multiplatform call it React Native and API Restful (I realize I am weak in logic but yoroshiku onegaishimasu)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roningrum&show_icons=true&theme=tokyonight)
 <!-- tokyonight
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun Fact: I have some Gojo Satoru merch. I call it motivation
 -->
